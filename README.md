@@ -4,7 +4,7 @@ Vue 3 web-приложение для онлайн-заказов блюд.
 
 
 
-👉 [Open on GitHub Pages](https://qwezy1.github.io/online-order-app/)
+👉 [Open on GitHub Pages](https://dropzed.github.io/kt_urch/)
 
 ##   Stack
 
