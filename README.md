@@ -1,6 +1,6 @@
-#  Online Restaurant Order App
+#  Restaurant on Vue 3
 
-Vue 3 web-приложение для онлайн-заказов блюд.
+Web-приложение для онлайн-заказов блюд.
 
 
 
@@ -8,19 +8,14 @@ Vue 3 web-приложение для онлайн-заказов блюд.
 
 ##   Stack
 
-- Vue 3 + Composition API
+- Vue 3
 - TypeScript
-- Pinia (управление корзиной)
-- Vite (билд и разработка)
-- GitHub Pages (хостинг)
+- Pinia
+- Vite 
+- GitHub Pages 
 
 ##  Download
 
 ```bash
 npm install
 npm run dev
-
-## Docker
-
-docker build -t vue-vite-dev .
-docker run -p 5173:5173 -v ${PWD}:/app -v /app/node_modules vue-vite-dev
